@@ -11,11 +11,11 @@ This report presents a comprehensive TOPSIS analysis to identify the best pre-tr
 
 ### Key Findings
 
-- **Text Summarization (Roll Numbers ending with 0 or 5)**: ALBERT (Score: 0.5626)
-- **Text Generation (Roll Numbers ending with 1 or 6)**: GPT-2 (Score: 0.6289)
-- **Text Classification (Roll Numbers ending with 2 or 7)**: ALBERT (Score: 0.8144)
-- **Text Sentence Similarity (Roll Numbers ending with 3 or 8)**: ALBERT (Score: 0.7670)
-- **Text Conversational (Roll Numbers ending with 4 or 9)**: DistilBERT (Score: 0.7086)
+- **Text Summarization **: ALBERT (Score: 0.5626)
+- **Text Generation **: GPT-2 (Score: 0.6289)
+- **Text Classification **: ALBERT (Score: 0.8144)
+- **Text Sentence Similarity **: ALBERT (Score: 0.7670)
+- **Text Conversational **: DistilBERT (Score: 0.7086)
 
 ---
 
@@ -42,7 +42,7 @@ Six pre-trained models were evaluated across all tasks:
 
 ---
 
-## Text Summarization (Roll Numbers ending with 0 or 5)
+## Text Summarization
 
 ### Evaluation Criteria
 
@@ -80,7 +80,7 @@ Six pre-trained models were evaluated across all tasks:
 
 ---
 
-## Text Generation (Roll Numbers ending with 1 or 6)
+## Text Generation
 
 ### Evaluation Criteria
 
@@ -118,7 +118,7 @@ Six pre-trained models were evaluated across all tasks:
 
 ---
 
-## Text Classification (Roll Numbers ending with 2 or 7)
+## Text Classification 
 
 ### Evaluation Criteria
 
@@ -156,7 +156,7 @@ Six pre-trained models were evaluated across all tasks:
 
 ---
 
-## Text Sentence Similarity (Roll Numbers ending with 3 or 8)
+## Text Sentence Similarity 
 
 ### Evaluation Criteria
 
@@ -194,7 +194,7 @@ Six pre-trained models were evaluated across all tasks:
 
 ---
 
-## Text Conversational (Roll Numbers ending with 4 or 9)
+## Text Conversational
 
 ### Evaluation Criteria
 
